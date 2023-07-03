@@ -1,4 +1,4 @@
-# Lab 03 : The Joy of pure JavaScript Part 2
+# Lab 05 : The Joy of pure JavaScript Part 2
 
 ให้น.ศ.เขียนโปรแกรมโดยใช้ Node.js + JavaScript ตามคำสั่งของโจทย์ในข้อต่าง ๆ ตามรายละเอียดด้านล่างนี้
 
