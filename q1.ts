@@ -1,8 +1,17 @@
+// define interface for Hero and Shop objects
+interface Hero {
+  /* Your code here */
+}
+
+interface Shop {
+  /* Your code here */
+}
+
 function buyItem(hero, shop) {
   /* Your code here */
 }
 
-//Test cases
+//Test cases : assign proper type/interface to all objects
 const hero1 = {
   items: ["sword", "potion"],
   gold: 50,
