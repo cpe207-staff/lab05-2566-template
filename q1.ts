@@ -7,6 +7,7 @@ interface Shop {
   /* Your code here */
 }
 
+// assign interface/type to the function definition properly
 function buyItem(hero, shop) {
   /* Your code here */
 }
